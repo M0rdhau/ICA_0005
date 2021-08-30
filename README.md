@@ -1,6 +1,6 @@
 # ICA_0005
 
-Database Basics course, written for MySQL using MySQL workbench.
+Database Basics course, written for MySQL powered by MySQL workbench.
 
 ## Assignment 2
 ERM for one of the models from the second assignment, as png
