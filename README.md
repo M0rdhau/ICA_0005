@@ -14,6 +14,8 @@ Queries made on "MiniInsta" database provided by the lecturer. All the relevant 
 
 ![](./Assignment_5_MiniMoodle/Assignment_5.png)
 
+![](./Assignment_5_MiniMoodle/ER_Assignment_5.png)
+
 Project "MiniMoodle" - lightweight analog of Moodle used by TalTech.
 
 Assignment_5.sql and playground.sql include sample queries to test the database out.
